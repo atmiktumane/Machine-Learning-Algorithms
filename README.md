@@ -15,6 +15,6 @@ Predictive maintenance.
 ```
 
 #### Types of Machine Learning :
-* Supervised Learning : Uses Labeled input and output the data
-* Unsupervised Learning
+* Supervised Learning : Uses Labeled input and output the data.
+* Unsupervised Learning : used to analyze and cluster unlabeled datasets.
 * Semi-supervised Learning
