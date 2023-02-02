@@ -13,3 +13,7 @@ Recommendation Engines
 Fraud Detection
 Predictive maintenance.
 ```
+
+#### Types of Machine Learning :
+* Supervised Learning
+* Unsupervised Learning
