@@ -15,6 +15,6 @@ Predictive maintenance.
 ```
 
 #### Types of Machine Learning :
-* Supervised Learning
+* Supervised Learning : Uses Labeled input and output the data
 * Unsupervised Learning
 * Semi-supervised Learning
