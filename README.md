@@ -19,8 +19,8 @@ Predictive maintenance.
 * Unsupervised Learning : used to analyze and cluster unlabeled datasets.
 * Semi-supervised Learning
 
-```
-Linear Regression :
+
+##### Linear Regression :
 Linear Regression analysis is used to predict the value of a variable based on the value of another variable.
 Variable to be predicted is Dependent Variable.
 Variable which is used to predict the value is Independent Variable
