@@ -24,3 +24,7 @@ Predictive maintenance.
 Linear Regression analysis is used to predict the value of a variable based on the value of another variable.
 Variable to be predicted is Dependent Variable.
 Variable which is used to predict the value is Independent Variable
+
+
+##### Multiple Linear Regression :
+Multiple Regression is a technique that uses values of multiple independent variables and predicting the value of one dependent variable.
