@@ -28,3 +28,8 @@ Variable which is used to predict the value is Independent Variable
 
 ##### Multiple Linear Regression :
 Multiple Regression is a technique that uses values of multiple independent variables and predicting the value of one dependent variable.
+
+
+###### Pickle file:
+It is a useful python tool that allows to save the ML Models and used to re-lod pre-trained machine learning models in future.
+Reusability of Model.
