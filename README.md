@@ -33,3 +33,6 @@ Multiple Regression is a technique that uses values of multiple independent vari
 ###### Pickle file:
 It is a useful python tool that allows to save the ML Models and used to re-lod pre-trained machine learning models in future.
 Reusability of file.
+
+###### One Hot Encoding:
+Technique used to represent categorical variables as numerical values in a machine learning model.
