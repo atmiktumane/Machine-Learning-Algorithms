@@ -38,4 +38,4 @@ Reusability of file.
 Technique applied to the integer representation and used to represent categorical variables as numerical values in a machine learning model.
 
 ###### Train Test Split :
-It is a model validation procedure that allows to simulate how model will perform on new/unseen data.
+It is a model validation procedure that allows to simulate how model would perform on new/unseen data.
