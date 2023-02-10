@@ -37,5 +37,4 @@ Reusability of file.
 ###### One Hot Encoding:
 Technique applied to the integer representation and used to represent categorical variables as numerical values in a machine learning model.
 
-###### Train Test Split :
-It is a model validation procedure that allows to simulate how model would perform on new/unseen data.
+
