@@ -37,4 +37,5 @@ Reusability of file.
 ###### One Hot Encoding:
 Technique applied to the integer representation and used to represent categorical variables as numerical values in a machine learning model.
 
-
+###### Sentiment Analysis : 
+Technique that use text analysis and natural language processing to classify words as either positive
