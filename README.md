@@ -35,4 +35,4 @@ It is a useful python tool that allows to save the ML Models and used to re-lod 
 Reusability of file.
 
 ###### One Hot Encoding:
-Technique applied to the integer representation and used to represent categorical variables
+Technique applied to the integer representation 
